@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/compiler.dir/main.c.o CMakeFiles/compiler.dir/util.c.o CMakeFiles/compiler.dir/text.c.o CMakeFiles/compiler.dir/tokens.c.o CMakeFiles/compiler.dir/lex.yy.c.o  -o compiler 
