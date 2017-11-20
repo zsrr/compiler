@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangshirui/ClionProjects/compiler/main.c
+printf.h
+-
+
+/Users/zhangshirui/ClionProjects/compiler/text.c
+stdio.h
+-
+stdlib.h
+-
+text.h
+/Users/zhangshirui/ClionProjects/compiler/text.h
+
+/Users/zhangshirui/ClionProjects/compiler/text.h
+util.h
+/Users/zhangshirui/ClionProjects/compiler/util.h
+
+/Users/zhangshirui/ClionProjects/compiler/util.c
+util.h
+/Users/zhangshirui/ClionProjects/compiler/util.h
+stdlib.h
+-
+
+/Users/zhangshirui/ClionProjects/compiler/util.h
+assert.h
+-
+

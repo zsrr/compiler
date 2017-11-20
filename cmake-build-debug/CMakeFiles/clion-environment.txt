@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.6.2@/Applications/CMake.app/Contents/bin/cmake
